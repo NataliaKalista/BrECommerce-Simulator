@@ -5,9 +5,15 @@ import plotly.express as px
 import os 
 import zipfile
 
-if not os.path.exists('brEcommerce.db'):
+if os.path.exists('brEcommerce.db'):
+    os.remove('brEcommerce.db')
+
+if os.path.exists('brEcommerce.zip'):
     with zipfile.ZipFile('brEcommerce.zip', 'r') as zip_ref:
         zip_ref.extractall()
+else:
+    st.error("Error")
+    st.stop()
 
 st.title("E-Commerce Dashboard")
 
