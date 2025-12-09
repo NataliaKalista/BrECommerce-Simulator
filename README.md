@@ -3,7 +3,7 @@
 An interactive Business Intelligence (BI) tool built with Python to analyze sales data from Olist (Brazilian E-Commerce).
 This project demonstrates end-to-end data analysis skills: from Data Engineering (ETL, SQL) to Frontend visualization and Decision Support Systems.
 
-![Business Simulator]("Outputs/page4.png")
+![Business Simulator](Outputs/page4.png)
 
  **[View Live App](https://brecommerce-simulator-pggmfzeqhpbf4nf3fz3sw9.streamlit.app/)** 
 
