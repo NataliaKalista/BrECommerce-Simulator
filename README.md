@@ -48,7 +48,7 @@ This project handles large data limits on GitHub by compressing the database.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/NataliaKalista/ecommerce-dashboard.git](https://github.com/NataliaKalista/ecommerce-dashboard.git)
+    git clone [https://github.com/NataliaKalista/ecommerce-dashboard.git](https://github.com/NataliaKalista/BrECommerce-Simulator.git))
     ```
 2.  **Install dependencies:**
     ```bash
@@ -64,5 +64,3 @@ This project handles large data limits on GitHub by compressing the database.
 The dataset is provided by **Olist** and contains ~100k orders from 2016 to 2018 in Brazil.
 Original source: [Kaggle - Brazilian E-Commerce Public Dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 
----
-*Created by [Twoje Imię i Nazwisko]*
